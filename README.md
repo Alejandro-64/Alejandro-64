@@ -3,12 +3,12 @@
 Frontend Developer · Lima, Perú
 
 ![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-111111?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Zustand](https://img.shields.io/badge/Zustand-111111?style=flat-square&logo=react&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-111111?style=flat&logo=reacthookform&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-111111?style=flat&logo=zod&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-111111?style=flat-square&logo=zustand&logoColor=orange)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-111111?style=flat-square&logo=reacthookform&logoColor=EC5990)
+![Zod](https://img.shields.io/badge/Zod-111111?style=flat-square&logo=zod&logoColor=3E67B1)
 
 ---
 
